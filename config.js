@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Chuyện không kể nửa đêm",
-    introTitle: 'Hạt Thóc',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
+    titleWeb: "Chuyện kinh dị không kể lúc nửa đêm ᶘᵒᴥᵒᶅ ",
+    introTitle: 'Hạt Thóc >.<',
+    introDesc: `Cho em xin một cốc trà tiện cho em hỏi lối vào tim anh 🥰`,
+    btnIntro: '^^Chần chờ gì nữa chỉ lối ngay thôi hiHi^^',
+    title: 'Quyết định chỉ lối cho em vào tym anh rùi đúng hông o_o',
+    desc: 'Nhanh nhanh đi chứ em hóng lắm rùi nè  ',
+    btnYes: 'Anh chỉ ngay đây <33',
+    btnNo: 'Hông chỉ đâu ai rảnh mà chỉ :((',
+    question: 'Chịu chỉ cho em có phải là iu em rùi đúng khum 😘. Ủa mà lý do nào khiến anh iu em dợ ???',
+    btnReply: 'Cho em xem đáp án liền đi nè <3',
+    reply: 'Bởi vì em siêu lỳ, hay dỗi còn bày đủ trò quậy phá T_T',
+    mess: 'Nói trúng tim đen của anh rùi đúng hông . Nhưng mà có việc khác quan trọng hơn em muốn nói cho anh đó là',
+    messDesc: 'Em iu anh rất rất nhìu, mãi mãi iu lun ❤️',
+    btnAccept: 'Nếu iu thì nhắn tin cho em liền điii <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
